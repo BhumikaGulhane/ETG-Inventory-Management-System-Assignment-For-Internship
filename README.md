@@ -4,7 +4,8 @@ This repositary is an assignment on Inventory Management System given by ETG.
 ## In this I have made an Inventory-Management-System in which below functions can be performed:-              
 ->We can Add new Inventory in Dictionary.           
 ->We can Purchase Product using item id.          
-->We can Save the sales in sales file.          
+->We can Save the sales in sales file.           
+->We can Generate Bill also.                 
 
 ## There are three files in a folder name ETG_Assignment                  
 1.First file is the main file in which python code is written.        
