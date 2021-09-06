@@ -1,7 +1,7 @@
-# ETG-Inventory-Management-System-Assignment-For-Internship
+# ETG-Inventory-Management-System-Assignment-For-Internship\n
 This repositary is an assignment on Inventory Management System given by ETG. 
 
-##In this I have made an Inventory-Management-System in which below functions can be performed:-
+##In this I have made an Inventory-Management-System in which below functions can be performed:-\n
 ->We can Add new Inventory in Dictionary.
 ->We can Purchase Product using item id.
 ->We can Save the sales in sales file.
